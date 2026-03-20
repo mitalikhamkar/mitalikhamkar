@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Mitali 👋
 
-<!--
-**mitalikhamkar/mitalikhamkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 BSc IT Student | Aspiring Full Stack Developer  
 
-Here are some ideas to get you started:
+## 🚀 Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👗 Glamware
+A virtual wardrobe and outfit styling mobile application.
+
+- Avatar creation
+- Clothing management
+- Outfit try-on system
+- Built using React Native, Node.js, MongoDB
+
+🔗 Project: https://github.com/mitalikhamkar/Glamware-app
+
+---
+
+## 🛠️ Skills
+- React Native
+- Node.js
+- Express.js
+- MongoDB
+- JavaScript
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/mitali-khamkar/
