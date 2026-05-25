@@ -171,7 +171,7 @@ const mitali: Developer = {
 
 **Tech:** `HTML` `CSS` `JavaScript` `React.js`
 
-[![View Project](https://img.shields.io/badge/View_Project-%236366F1.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar)
+[![View Project](https://github.com/mitalikhamkar/Culina)
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ const mitali: Developer = {
 
 **Tech:** `React Native` `JavaScript` `Mobile UI`
 
-[![View Project](https://img.shields.io/badge/View_Project-%236366F1.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar)
+[![View Project](https://github.com/mitalikhamkar/Glamware-app)
 
 </td>
 </tr>
