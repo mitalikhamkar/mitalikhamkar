@@ -1,29 +1,3 @@
-(https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Mitali%20Khamkar)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:8E2DE2&height=220&section=header&text=Mitali%20Khamkar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Building%20Real-World%20Projects&descAlignY=58)
 
-💻 BSc IT Student | Aspiring Full Stack Developer  
-
-## 🚀 Projects
-
-### 👗 Glamware
-A virtual wardrobe and outfit styling mobile application.
-
-- Avatar creation
-- Clothing management
-- Outfit try-on system
-- Built using React Native, Node.js, MongoDB
-
-🔗 Project: https://github.com/mitalikhamkar/Glamware-app
-
----
-
-## 🛠️ Skills
-- React Native
-- Node.js
-- Express.js
-- MongoDB
-- JavaScript
-
----
-
-## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com/in/mitali-khamkar/
+# Hi, I'm Mitali 👋
