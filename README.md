@@ -6,4 +6,22 @@
 
 # Hi, I'm Mitali 👋
 
-💻 BSc IT Student | Aspiring Full Stack Developer
+<h2 align="center">Hi, I'm Mitali 👋</h2>
+
+<p align="center">
+BSc IT Student passionate about building practical full-stack applications
+</p>
+
+<p align="center">
+Currently building <b>Culina</b> 🍳 — a smart recipe suggestion platform
+</p>
+
+<p align="center">
+Built <b>Glamware</b> 👗 — a virtual wardrobe and outfit styling application
+</p>
+
+<p align="center">
+Focused on React, JavaScript, Node.js, and creating real-world products
+</p>
+
+
