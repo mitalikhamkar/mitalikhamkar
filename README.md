@@ -1,4 +1,4 @@
-# Hi, I'm Mitali 👋
+[# Hi, I'm Mitali 👋](https://capsule-render.vercel.app/api?type=soft&height=300&color=gradient&text=Mitali%20Khamkar)
 
 💻 BSc IT Student | Aspiring Full Stack Developer  
 
