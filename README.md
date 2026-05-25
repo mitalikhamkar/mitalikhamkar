@@ -17,6 +17,7 @@ BSc IT Student passionate about building practical full-stack applications
 Built <b>Culina</b> 🍳 — a smart recipe suggestion platform
 </p>
 
+
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <p align="center">
@@ -26,6 +27,7 @@ Built <b>Glamware</b> 👗 — a virtual wardrobe and outfit styling application
 <p align="center">
 Focused on React, JavaScript, Node.js, and creating real-world products
 </p>
+
 
 <p align="center">
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
