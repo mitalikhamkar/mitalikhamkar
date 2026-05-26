@@ -100,7 +100,7 @@ const mitali: Developer = {
 <div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=mitalikhamkar&theme=midnight-purple&hide_border=true&background=0d1117&ring=818cf8&fire=a78bfa&currStreakLabel=818cf8&sideLabels=c9d1d9&dates=6e7681&border_radius=12" />
+<img width="49%" src="https://streak-stats.demolab.com?user=mitalikhamkar&theme=midnight-purple&hide_border=true" />
 
 <br/><br/>
 
