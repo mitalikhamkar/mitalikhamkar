@@ -171,7 +171,7 @@ const mitali: Developer = {
 
 **Tech:** `HTML` `CSS` `JavaScript` `React.js`
 
-[![View Project](https://github.com/mitalikhamkar/Culina)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar/Culina)
 
 </td>
 </tr>
@@ -200,7 +200,7 @@ const mitali: Developer = {
 
 **Tech:** `React Native` `JavaScript` `Mobile UI`
 
-[![View Project](https://github.com/mitalikhamkar/Glamware-app)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar/Glamware-app)
 
 </td>
 </tr>
@@ -229,7 +229,7 @@ const mitali: Developer = {
 
 **Tech:** `Node.js` `Express.js` `MongoDB` `REST API`
 
-[![View Project](https://img.shields.io/badge/View_Project-%236366F1.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar)
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar/lead-workflow-system)
 
 </td>
 </tr>
