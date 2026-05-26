@@ -99,16 +99,15 @@ const mitali: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&icon_color=818cf8&text_color=c9d1d9&border_radius=12&include_all_commits=true&count_private=true" />
-<img width="49%" src="https://streak-stats.demolab.com?user=mitalikhamkar&theme=midnight-purple&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img width="49%" src="https://streak-stats.demolab.com?user=mitalikhamkar&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d1117&title_color=818cf8&text_color=c9d1d9&border_radius=12&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
-
-<br/>
 
 ---
 
@@ -118,11 +117,9 @@ const mitali: Developer = {
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mitalikhamkar&theme=react-dark&bg_color=0d1117&color=818cf8&line=6366f1&point=a5b4fc&area=true&area_color=6366f1&hide_border=true&radius=12" />
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=mitalikhamkar&theme=tokyo-night&hide_border=true" />
 
 </div>
-
-<br/>
 
 ---
 
