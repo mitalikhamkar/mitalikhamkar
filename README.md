@@ -91,7 +91,6 @@ const mitali: Developer = {
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
