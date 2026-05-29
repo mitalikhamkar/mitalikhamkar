@@ -4,11 +4,7 @@
 
 <div align="center">
 
-<!-- ═══════════════════════════ ANIMATED BANNER ═══════════════════════════ -->
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Mitali%20Khamkar&fontSize=54&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Full%20Stack%20Developer&descSize=18&descAlignY=60&descColor=a5b4fc&animation=fadeIn" />
-
-<!-- ═══════════════════════════ TYPING ANIMATION ══════════════════════════ -->
 
 <br/>
 
@@ -16,15 +12,11 @@
 
 <br/>
 
-<!-- ══════════════════════════ SOCIAL BADGES ══════════════════════════════ -->
-
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali-khamkar)
-[![Portfolio](https://mitalikhamkar-portfolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%236366F1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mitalikhamkar-portfolio.vercel.app/)
 
 <br/><br/>
-
-<!-- ══════════════════════════ PROFILE VIEWS ══════════════════════════════ -->
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=mitalikhamkar&color=6366f1&style=flat-square&label=Profile+Views)
 
@@ -33,8 +25,6 @@
 <br/>
 
 ---
-
-<!-- ════════════════════════════ ABOUT SECTION ════════════════════════════ -->
 
 ## `> whoami`
 
@@ -54,8 +44,6 @@ const mitali: Developer = {
 <br/>
 
 ---
-
-<!-- ════════════════════════════ TECH STACK ══════════════════════════════ -->
 
 ## `> tech_stack`
 
@@ -93,25 +81,21 @@ const mitali: Developer = {
 
 ---
 
-<!-- ════════════════════════════ GITHUB STATS ═════════════════════════════ -->
-
 ## `> github_stats`
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&cache_seconds=1800&rank_icon=github" />
 &nbsp;&nbsp;
 <img height="180" src="https://streak-stats.demolab.com?user=mitalikhamkar&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" />
 
 </div>
 
 ---
-
-<!-- ═══════════════════════ CONTRIBUTION GRAPH ════════════════════════════ -->
 
 ## `> contribution_activity`
 
@@ -122,8 +106,6 @@ const mitali: Developer = {
 </div>
 
 ---
-
-<!-- ═══════════════════════ SNAKE ANIMATION ═══════════════════════════════ -->
 
 ## `> contribution_snake`
 
@@ -141,13 +123,9 @@ const mitali: Developer = {
 
 ---
 
-<!-- ═════════════════════════ PROJECTS SECTION ════════════════════════════ -->
-
 ## `> featured_projects`
 
 <div align="center">
-
-<!-- ──────────────────── PROJECT 1: CULINA ──────────────────── -->
 
 <table>
 <tr>
@@ -176,8 +154,6 @@ const mitali: Developer = {
 
 <br/>
 
-<!-- ──────────────────── PROJECT 2: GLAMWARE ──────────────────── -->
-
 <table>
 <tr>
 <td width="100%">
@@ -204,8 +180,6 @@ const mitali: Developer = {
 </table>
 
 <br/>
-
-<!-- ──────────────────── PROJECT 3: LEAD WORKFLOW ──────────────────── -->
 
 <table>
 <tr>
@@ -238,8 +212,6 @@ const mitali: Developer = {
 
 ---
 
-<!-- ══════════════════════════ CURRENTLY LEARNING ════════════════════════ -->
-
 ## `> currently_learning`
 
 <div align="center">
@@ -256,8 +228,6 @@ const mitali: Developer = {
 
 ---
 
-<!-- ═══════════════════════════ CONNECT SECTION ═══════════════════════════ -->
-
 ## `> connect`
 
 <div align="center">
@@ -271,15 +241,13 @@ const mitali: Developer = {
 
 [![GitHub](https://img.shields.io/badge/Follow_on_GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar)
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali-khamkar)
-[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-%236366F1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mitalikhamkar.github.io/portfolio-website/)
+[![Portfolio](https://img.shields.io/badge/Visit_Portfolio-%236366F1.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://mitalikhamkar-portfolio.vercel.app/)
 
 <br/>
 
 </div>
 
 ---
-
-<!-- ══════════════════════════════ DEV MOTTO ══════════════════════════════ -->
 
 <div align="center">
 
@@ -299,8 +267,6 @@ const mitali: Developer = {
 </div>
 
 ---
-
-<!-- ═══════════════════════════ FOOTER BANNER ═════════════════════════════ -->
 
 <div align="center">
 
