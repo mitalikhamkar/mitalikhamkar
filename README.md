@@ -20,7 +20,7 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mitali-khamkar)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%236366F1.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://mitalikhamkar.github.io/portfolio-website/)
+[![Portfolio](https://mitalikhamkar-portfolio.vercel.app/)
 
 <br/><br/>
 
