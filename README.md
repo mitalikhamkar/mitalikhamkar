@@ -99,13 +99,13 @@ const mitali: Developer = {
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true" />
-
-<img width="49%" src="https://streak-stats.demolab.com?user=mitalikhamkar&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+&nbsp;&nbsp;
+<img height="180" src="https://streak-stats.demolab.com?user=mitalikhamkar&theme=tokyonight&hide_border=true" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
 
 </div>
 
@@ -235,6 +235,24 @@ const mitali: Developer = {
 </div>
 
 <br/>
+
+---
+
+<!-- ══════════════════════════ CURRENTLY LEARNING ════════════════════════ -->
+
+## `> currently_learning`
+
+<div align="center">
+
+```
+📚 TypeScript   →   🏗️ System Design   →   ⚛️ Advanced React Patterns
+```
+
+![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![System Design](https://img.shields.io/badge/System_Design-%236366F1.svg?style=for-the-badge&logo=blueprint&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
+
+</div>
 
 ---
 
