@@ -114,7 +114,6 @@ const mitali: Developer = {
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mitalikhamkar/mitalikhamkar/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mitalikhamkar/mitalikhamkar/output/github-contribution-grid-snake.svg" />
-  ![Snake animation](https://github.com/mitalikhamkar/mitalikhamkar/blob/output/github-contribution-grid-snake.svg)
   <img alt="contribution snake animation" src="https://raw.githubusercontent.com/mitalikhamkar/mitalikhamkar/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
