@@ -31,7 +31,7 @@
 ```typescript
 const mitali: Developer = {
   name        : "Mitali Khamkar",
-  role        : "Aspiring Full Stack Developer",
+  role        : "Full Stack Developer",
   education   : "BSc Information Technology",
   location    : "India 🇮🇳",
   focus       : ["Web Development", "Mobile Apps", "Backend Architecture"],
