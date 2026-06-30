@@ -187,6 +187,33 @@ const mitali: Developer = {
 <tr>
 <td width="100%">
 
+### 📋 &nbsp; TaskFlow — *Task Management Platform*
+
+![Web App](https://img.shields.io/badge/Web_Application-%236366F1.svg?style=flat-square&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Live-%2310b981.svg?style=flat-square)
+
+> A modern task management application built to help users **organize, prioritize, and track their daily work** through an intuitive and responsive interface backed by a scalable full-stack architecture.
+
+**What makes it stand out:**
+- ✅ Create, update, and manage tasks with ease
+- 📂 Organized workflow for better productivity
+- ⚡ Responsive UI with seamless user experience
+- 🚀 Fully deployed full-stack application with separate frontend and backend hosting
+
+**Tech:** `React.js` `Node.js` `Express.js` `MongoDB` `REST API`
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-10B981?style=for-the-badge&logo=vercel&logoColor=white)](https://task-flow-jet-tau.vercel.app/)
+&nbsp;
+[![View Project](https://img.shields.io/badge/View_Project-6366F1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mitalikhamkar/TaskFlow)
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td width="100%">
+
 ### ⚙️ &nbsp; Lead Workflow System — *Backend Architecture*
 
 ![Backend](https://img.shields.io/badge/Backend_Architecture-%236366F1.svg?style=flat-square&logoColor=white)
