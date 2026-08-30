@@ -87,13 +87,13 @@ const mitali: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-reve-cult.vercel.app/api?username=mitalikhamkar&show_icons=true&theme=tokyonight&hide_border=true"/>
 
 <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mitalikhamkar&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="160em" src="https://github-readme-stats-reve-cult.vercel.app/api/top-langs/?username=mitalikhamkar&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
